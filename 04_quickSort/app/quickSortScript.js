@@ -1,4 +1,4 @@
-import quickSort from '../source/quickSort';
+import quickSort from '../src/quickSort';
 import randomSequence from '../../00_other/randomSequence';
 
 const array = randomSequence(1, 10);

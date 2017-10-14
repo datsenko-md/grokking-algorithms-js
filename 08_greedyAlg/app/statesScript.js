@@ -1,4 +1,4 @@
-import states from '../source/states';
+import states from '../src/states';
 
 let statesNeeded = new Set(["mt", "wa", "or", "id", "nv", "ut", "ca", "az"]);
 

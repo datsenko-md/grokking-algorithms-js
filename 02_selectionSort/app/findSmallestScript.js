@@ -1,5 +1,5 @@
-import randomSequence from '../source/randomSequence';
-import findSmallest from '../source/findSmallest';
+import randomSequence from '../src/randomSequence';
+import findSmallest from '../src/findSmallest';
 
 const array = randomSequence(1, 10);
 console.log("Sequence: " + array);

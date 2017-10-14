@@ -1,5 +1,5 @@
-import sequence from '../source/sequence';
-import binarySearch from '../source/binarySearch';
+import sequence from '../src/sequence';
+import binarySearch from '../src/binarySearch';
 
 const list = sequence(1, 10);
 const item = 3;
